@@ -1,4 +1,4 @@
 # Weather-App
 
-This is a Weather App was built using React Native
+This is a Weather App built using React Native
 
